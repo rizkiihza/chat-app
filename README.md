@@ -15,9 +15,11 @@ Run `npm install` on each of the folder to install dependencies
 
 ### Run the chat-app
 
-run `npm start` for chat-angular folder 
-run `node app.js` for chat-service/firebase-server folder
-run `node index.js` for the rest
+1. run `npm start` for chat-angular folder 
+
+2. run `node app.js` for chat-service/firebase-server folder
+
+3. run `node index.js` for the rest
 
 then you can run them in chrome and firefox to start chatting. The sender in one browser
 will be the receiver in the other browser and vice versa
